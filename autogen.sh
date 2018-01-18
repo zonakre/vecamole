@@ -10,9 +10,9 @@ function check {
     fi
 }
 
-check "mapnik-vector-tile" "src/vector_tile_backend_pbf.hpp"
-check "mapnik-vector-tile" "src/vector_tile_processor.hpp"
-check "clipper" "cpp/clipper.hpp"
+#check "mapnik-vector-tile" "src/vector_tile_backend_pbf.hpp"
+#check "mapnik-vector-tile" "src/vector_tile_processor.hpp"
+#check "clipper" "cpp/clipper.hpp"
 check "protozero" "include/protozero/pbf_reader.hpp"
 check "protozero" "include/protozero/pbf_writer.hpp"
 

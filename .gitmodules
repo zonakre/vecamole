@@ -10,3 +10,6 @@
 [submodule "deps/wagyu"]
 	path = deps/wagyu
 	url = https://github.com/mapbox/wagyu.git
+[submodule "deps/clipper"]
+	path = deps/clipper
+	url = https://github.com/mapbox/clipper.git
