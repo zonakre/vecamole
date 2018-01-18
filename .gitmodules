@@ -4,6 +4,3 @@
 [submodule "deps/protozero"]
 	path = deps/protozero
 	url = https://github.com/mapbox/protozero.git
-[submodule "deps/clipper"]
-	path = deps/clipper
-	url = https://github.com/mapnik/clipper.git
